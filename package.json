@@ -1,0 +1,13 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "cool web scraper",
+  "main": "index.js",
+  "author": "Johnny Proano",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^19.7.2"
+  }
+}
